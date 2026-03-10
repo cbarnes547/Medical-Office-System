@@ -1,1 +1,4 @@
 # Medical-Office-System
+# Project Overview
+
+I developed a robust medical office management application that integrates multiple custom Java classes to handle patient records, physician data, and appointment scheduling. The system utilizes nested data structures, specifically an ArrayList<Appointment> within a Patient object, to model complex real-world relationships. I implemented advanced file parsing techniques to populate these objects from external data sources and added custom sorting algorithms to organize records by name and ID. The project also features a preliminary GUI designed in FXML and SceneBuilder, providing a user-friendly interface for adding and viewing medical data. Overall, this assignment demonstrates my ability to manage large-scale data sets and maintain object integrity across a multi-layered application architecture.
